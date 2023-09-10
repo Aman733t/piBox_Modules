@@ -1,0 +1,11 @@
+{
+	"modules":[
+		{
+			"module_icon":"https://w7.pngwing.com/pngs/931/769/png-transparent-database-icon-database-free-blue-background-blue-angle-world-thumbnail.png",
+			"module_name":"database",
+			"module_version":"1.0",
+			"module_author":"Aman Sharma",
+			"module_description":"web database setup"
+		}
+	]
+}
